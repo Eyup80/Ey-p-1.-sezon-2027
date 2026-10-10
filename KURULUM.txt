@@ -1,0 +1,7 @@
+MACIT PRIME 2027 PWA
+
+Bu paket APK değildir. PWA olarak telefona yüklemek için klasörün içindeki dosyaların tamamını HTTPS destekli bir web sunucusunda yayınlayın (örneğin GitHub Pages veya Netlify). Sonra Android Chrome ile adresi açın > üç nokta > Uygulamayı yükle / Ana ekrana ekle.
+
+index.html tek başına da tarayıcıda çalışabilir; fakat dosya yöneticisinden açılınca Android bazı tarayıcılarda dosya engeli veya veri saklama sorunu oluşabilir.
+
+Verilerinizi uygulamadaki Veriler > Yedek indir ile koruyun.
